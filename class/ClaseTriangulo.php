@@ -19,11 +19,11 @@ class Triangulo{
                  <br>
                  <table  style=" margin: 0 auto" border="2">
                  <tr>
-                            <td style="text-align: center ; width: 80% ">**INGRESE LA ALTURA DEL TRIANGULO**</td>
+                            <td style="text-align: center ; width: 80% ">** LA ALTURA DEL TRIANGULO ES**</td>
                             <td style="text-align: center ; width: 80% "><input type="text" name="altura" size=10></td>
                         </tr>
                         <tr>
-                            <td  style="text-align: center ; width: 80% ">**INGRESE LA BASE DEL TRIANGULO**</td>
+                            <td  style="text-align: center ; width: 80% ">**LA BASE DEL TRIANGULO ES**</td>
                             <td style="text-align: center ; width: 80% "><input type="text" name="base" size=10></td>
                         </tr>
                         <tr aling = "center">
